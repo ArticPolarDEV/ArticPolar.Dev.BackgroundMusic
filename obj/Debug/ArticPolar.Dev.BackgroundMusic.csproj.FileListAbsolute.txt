@@ -1,0 +1,6 @@
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\bin\Debug\BackgroundMusic - Test.dll
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\bin\Debug\BackgroundMusic - Test.pdb
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Debug\ArticPolar.Dev.BackgroundMusic.csproj.ResolveComReference.cache
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Debug\BackgroundMusic - Test.dll
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Debug\BackgroundMusic - Test.pdb

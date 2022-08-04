@@ -1,0 +1,19 @@
+C:\Users\Store User\AppData\Local\Temporary Projects\ArticPolar.Dev.BackgroundMusic\bin\Release\ArticPolar.Dev.BackgroundMusic.dll
+C:\Users\Store User\AppData\Local\Temporary Projects\ArticPolar.Dev.BackgroundMusic\bin\Release\ArticPolar.Dev.BackgroundMusic.pdb
+C:\Users\Store User\AppData\Local\Temporary Projects\ArticPolar.Dev.BackgroundMusic\obj\Release\Interop.WMPLib.dll
+C:\Users\Store User\AppData\Local\Temporary Projects\ArticPolar.Dev.BackgroundMusic\obj\Release\ArticPolar.Dev.BackgroundMusic.csproj.ResolveComReference.cache
+C:\Users\Store User\AppData\Local\Temporary Projects\ArticPolar.Dev.BackgroundMusic\obj\Release\ArticPolar.Dev.BackgroundMusic.dll
+C:\Users\Store User\AppData\Local\Temporary Projects\ArticPolar.Dev.BackgroundMusic\obj\Release\ArticPolar.Dev.BackgroundMusic.pdb
+C:\Users\Store User\documents\visual studio 2010\Projects\BackgroundMusic - Test\BackgroundMusic - Test\bin\Release\BackgroundMusic - Test.dll
+C:\Users\Store User\documents\visual studio 2010\Projects\BackgroundMusic - Test\BackgroundMusic - Test\bin\Release\BackgroundMusic - Test.pdb
+C:\Users\Store User\documents\visual studio 2010\Projects\BackgroundMusic - Test\BackgroundMusic - Test\obj\Release\Interop.WMPLib.dll
+C:\Users\Store User\documents\visual studio 2010\Projects\BackgroundMusic - Test\BackgroundMusic - Test\obj\Release\ArticPolar.Dev.BackgroundMusic.csproj.ResolveComReference.cache
+C:\Users\Store User\documents\visual studio 2010\Projects\BackgroundMusic - Test\BackgroundMusic - Test\obj\Release\BackgroundMusic - Test.dll
+C:\Users\Store User\documents\visual studio 2010\Projects\BackgroundMusic - Test\BackgroundMusic - Test\obj\Release\BackgroundMusic - Test.pdb
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Release\Interop.WMPLib.dll
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Release\ArticPolar.Dev.BackgroundMusic.csproj.ResolveComReference.cache
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\bin\Release\ArticPolar.Dev.BackgroundMusic.dll
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\bin\Release\ArticPolar.Dev.BackgroundMusic.pdb
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Release\ArticPolar.Dev.BackgroundMusic.dll
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\obj\Release\ArticPolar.Dev.BackgroundMusic.pdb
+C:\Users\Store User\Documents\Visual Studio 2010\Projects\ArticPolar.Dev.BackgroundMusic\ArticPolar.Dev.BackgroundMusic\bin\Release\icon\icon.png
